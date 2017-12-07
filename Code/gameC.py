@@ -7,7 +7,7 @@ import controlHero
 
 class GameController(object):
 	"""
-	Controller class for Loading.
+	Controller class for Game.
 
 	Attributes:
 		controlMenu: Class that controls the modelMenu inside Game Model Class
