@@ -50,8 +50,8 @@ deactivated.
 When the hero reaches the exit he'll drop all his belongings, write a
 letter and jump off a cliff.
 
-The next playthrough after this one starts with the aged gear, but it' 
-a little big stronger than starter gear, of the previous hero and his 
+The next playthrough after this one starts with the aged gear, but it's 
+a little bit stronger than starter gear, of the previous hero and his 
 suicide letter.
 
 BUT IF the player chooses to fight, and wins, the dungeon corpse will 
