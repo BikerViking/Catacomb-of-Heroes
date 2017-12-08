@@ -1,7 +1,7 @@
 # Catacomb-of-Heroes
 > [Roguelike](https://en.wikipedia.org/wiki/Roguelike) game written in pygame and libtcodpy
 
-![Game Screen](https://raw.githubusercontent.com/BikerViking/Catacomb-of-Heroes/master/Rogue_Like/GFX/game_screen.png)
+![Game Screen](https://raw.githubusercontent.com/BikerViking/Catacomb-of-Heroes/master/game_screen.png)
 
 ## Setup 
 
