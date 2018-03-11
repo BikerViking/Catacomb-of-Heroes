@@ -1,0 +1,25 @@
+Game Package.
+
+Where the magic happens, really.
+
+Here the game's model, view and controller unite their codes to bring the game to life.
+
+MODEL:
+	Holds game values:
+		- Seed;
+		- Maps;
+		- Agents (Hero, Creatures, Itens, etc).
+
+VIEW:
+	Use Draw and Assets to draw suff on the screen:
+		- UI;
+		- Menus;
+		- Background (walls, floors, shadows, etc);
+		- Foreground (Itens, Creatures, Hero, etc).
+
+CONTROLLER:
+	Modify Model's values:
+		- Control Agents (Hero, Creatures, stuff);
+		- Activate effects (Hard to explain, but poison or bleed is a good example);
+		- Generate Maps (?);
+		- Do stuff.
