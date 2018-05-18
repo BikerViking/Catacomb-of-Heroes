@@ -1,0 +1,20 @@
+[window]
+fullscreen: False
+resolution: (512, 448)
+name: Catacombs
+sprite: (32, 32)
+
+[input]
+right: 100
+accept: 13
+down: 120
+itens: 303
+upright: 101
+downright: 99
+decline: 8
+menu: 27
+up: 119
+upleft: 113
+downleft: 122
+left: 97
+
